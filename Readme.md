@@ -4,7 +4,7 @@ nodechat is a node.js simple web-based chat that use socket.io .
 
 ## Demo
 
-[http://nodechat.salimane.herokuapp.com](http://nodechat.salimane.herokuapp.com)
+[http://nodechat-salimane.herokuapp.com](http://nodechat-salimane.herokuapp.com)
 
 ## Engines Dependencies
 [node](https://github.com/joyent/node.git)
@@ -14,7 +14,7 @@ nodechat is a node.js simple web-based chat that use socket.io .
 ## How to Install
 
 ```shell
-git clone https://github.com/salimane/nodechat
+git clone https://github.com/salimane/nodechat.git
 cd nodechat
 npm install
 node server.js

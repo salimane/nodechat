@@ -80,7 +80,7 @@ function connect(name) {
 			activetabchat(receiver);
 		}
 		
-		addmsg(data.uid, data.from, '[*]' + data.text, receiver, data.created);
+		addmsg(data.uid, data.from, data.text, receiver, data.created);
 	});
 
 	// on close
