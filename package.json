@@ -1,0 +1,25 @@
+{
+	"name": "nodechat",
+	"version": "0.0.1",
+	"description": "a simple web chat room",
+    "keywords": ["node.js", "socket.io", "express"],
+    "homepage": "https://github.com/salimane/nodechat",
+	"author": {
+        "name": "Salimane Adjao Moustapha",
+        "email": "me@salimane.com",
+        "url": "http://salimane.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/salimane/nodechat.git"
+    },
+	"dependencies": {
+		"express": "3.0.x",
+		"socket.io": "0.9.x"
+	},
+	"engines": {
+		"node": "0.8.x",
+        "npm": "1.1.x"
+	},
+	"main": "server.js"
+}
